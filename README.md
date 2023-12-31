@@ -1,5 +1,11 @@
 # end-to-end-ml-project
 
-git config --global user.email "hammadalam7897@gmail.com"
-
-git config --global user.name "hammadalam78"
+```bash
+conda create -n mlproj python=3.8 -y
+```
+```bash
+conda activate mlproj
+```
+```bash
+pip install -r requirements.txt 
+```
